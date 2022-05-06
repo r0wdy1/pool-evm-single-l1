@@ -25,10 +25,10 @@ const localDevnets = {
   hardhat: {
     mining: {
       auto: true,
-      interval: 10
+      interval: 10000
     },
     accounts: {
-      mnemonic: "crazy appear raise time fashion kind pattern crazy device split escape wolf",
+      mnemonic: "myth like bonus scare over problem client lizard pioneer submit female collect",
       count: 8,
     }
   },
